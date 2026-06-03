@@ -1,0 +1,17 @@
+﻿# Tableau temporary/recovery files
+~*.twbr
+*.twbr
+
+# Tableau local extracts/cache
+*.hyper
+*.tde
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+
+# Optional local exports/drafts
+exports/
