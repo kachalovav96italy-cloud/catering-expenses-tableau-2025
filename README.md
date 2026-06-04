@@ -1,6 +1,9 @@
 ﻿# Catering Expenses Dashboard 2025
 
 Учебный проект по визуализации данных в Tableau Public. Дашборд анализирует catering-заказы за 2025 год: плановые и фактические расходы, превышения плана, структуру заказов по типам и нагрузку на персонал.
+## Tableau Public
+
+Дашборд опубликован в Tableau Public: [Catering Expenses Dashboard 2025](https://public.tableau.com/app/profile/andrei.kachalov/viz/catering_expenses_dashboard_2025/sheet16)
 
 ## Что показывает дашборд
 
@@ -71,3 +74,4 @@
 - Stacked bar charts.
 - Pie charts.
 - Компоновка интерактивного dashboard.
+
